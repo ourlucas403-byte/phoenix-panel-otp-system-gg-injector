@@ -1,18 +1,14 @@
-{
-  "system": true,
-  "users": [
-    {
-      "username": "user1",
-      "otp": "A7K9QX2M",
-      "device": "",
-      "active": true
-    },
-    {
-      "username": "user2",
-      "otp": "B9X2KD77",
-      "device": "",
-      "active": true
-    }
-  ],
-  "message": "Phoenix V4 Active"
-}
+[
+  {
+    "username": "user1",
+    "otp": "ABC12345",
+    "device": "",
+    "active": true
+  },
+  {
+    "username": "user2",
+    "otp": "XYZ99911",
+    "device": "android_xxx",
+    "active": true
+  }
+]
