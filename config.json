@@ -1,1 +1,5 @@
-{"username":"A","otp":"1234","device":"","active":true}
+{
+  "otp": "1111",
+  "maintenance": false,
+  "message": "Selamat datang di Phoenix Panel"
+}
