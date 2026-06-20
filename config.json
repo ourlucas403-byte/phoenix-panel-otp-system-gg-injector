@@ -1,14 +1,1 @@
-[
-  {
-    "username": "user1",
-    "otp": "ABC12345",
-    "device": "",
-    "active": true
-  },
-  {
-    "username": "user2",
-    "otp": "XYZ99911",
-    "device": "android_xxx",
-    "active": true
-  }
-]
+{"username":"A","otp":"1234","device":"","active":true}
