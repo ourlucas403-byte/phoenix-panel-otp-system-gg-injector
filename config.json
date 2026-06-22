@@ -1,20 +1,10 @@
 {
-"bot_token": "8919765868:AAH6KdKm4Cj7GnatyR0BKA7iPDpTb_STiVQ",
-"admin_id": "8059992057",
-
-"server": {
-"port": 3000
-},
-
-"license": {
-"prefix": "PX",
-"secret": "GANTI_DENGAN_RANDOM_STRING"
-},
-
-"price": {
-"1": 3000,
-"3": 5000,
-"7": 13000,
-"30": 25000
-}
+  "bot_token": "8919765868:AAH6KdKm4Cj7GnatyR0BKA7iPDpTb_STiVQ",
+  "admin_id": "8059992057",
+  "prices": {
+    "1": 3000,
+    "3": 5000,
+    "7": 13000,
+    "30": 25000
+  }
 }
